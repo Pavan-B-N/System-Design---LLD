@@ -1,4 +1,5 @@
 // system design for a Tic Tac Toe game using Low-Level Design (LLD) in Java
+// Tic Tac Toe is a two-player strategy game played on a 3x3 grid where players take turns marking X or O. The first to align three of their symbols in a row, column, or diagonal wins; if the grid fills with no winner, it's a draw.
 
 // Step 1: Requirements Analysis
 /*
